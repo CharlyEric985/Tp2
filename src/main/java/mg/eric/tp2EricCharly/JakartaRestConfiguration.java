@@ -1,4 +1,4 @@
-package mg.tendry.tp2mgitutendryrakotoarivony;
+package mg.eric.tp2EricCharly;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

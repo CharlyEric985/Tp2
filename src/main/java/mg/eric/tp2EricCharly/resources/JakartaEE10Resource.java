@@ -1,4 +1,4 @@
-package mg.eric.tp2mgEricCharly.resources;
+package mg.eric.tp2EricCharly.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
